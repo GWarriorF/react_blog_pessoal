@@ -20,6 +20,7 @@ function CardTemas({tema}: CardTemaProps) {
         </Link>
       </div>
     </div>
+
   )
 }
 

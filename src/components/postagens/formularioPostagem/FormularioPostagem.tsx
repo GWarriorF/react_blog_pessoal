@@ -67,7 +67,6 @@ function FormularioPostagem() {
     if (id !== undefined) {
       buscarPostagemPorId(id);
       console.log(tema);
-
     }
   }, [id]);
 

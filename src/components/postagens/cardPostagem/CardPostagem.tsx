@@ -35,5 +35,5 @@ function CardPostagem({post}: CardPostagemProps) {
     </div>
   )
 }
-  
+
 export default CardPostagem
